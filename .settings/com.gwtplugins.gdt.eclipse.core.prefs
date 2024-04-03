@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+gwtMavenModuleName=com.redtape9.fileuploader.Fileuploader
+gwtMavenModuleShortName=Fileuploader
+lastWarOutDir=/Users/macbook/eclipse-workspace/fileuploader/target/Fileuploader-1.0-SNAPSHOT
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=false

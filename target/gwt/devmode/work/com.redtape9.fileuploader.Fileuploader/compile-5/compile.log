@@ -1,0 +1,6 @@
+binding: user.agent=safari
+Compiling module com.redtape9.fileuploader.Fileuploader
+   Finding entry point classes
+      [ERROR] Hint: Check that the type name 'com.redtape9.fileuploader.client.Fileuploader' is really what you meant
+      [ERROR] Hint: Check that your classpath includes all required source roots
+[ERROR] Compiler returned false

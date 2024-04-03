@@ -1,0 +1,13 @@
+binding: user.agent=safari
+Compiling module com.redtape9.fileuploader.Fileuploader
+   Unification traversed 20965 fields and methods and 2009 types. 1977 are considered part of the current module and 1977 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 1956 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 2,743s
+Linking into /Users/macbook/eclipse-workspace/fileuploader/target/gwt/devmode/work/com.redtape9.fileuploader.Fileuploader/compile-2/war/fileuploader; Writing extras to /Users/macbook/eclipse-workspace/fileuploader/target/gwt/devmode/work/com.redtape9.fileuploader.Fileuploader/compile-2/extras/fileuploader
+   Link succeeded
+   Linking succeeded -- 0,157s
+2,925s total -- Compile completed

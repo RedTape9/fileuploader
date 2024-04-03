@@ -1,0 +1,2 @@
+serviceClass: com.redtape9.fileuploader.client.GreetingService
+path: 9A47B1E7E35F003DE45624B3F7562399.gwt.rpc

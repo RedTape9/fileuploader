@@ -1,0 +1,5 @@
+# Module com.redtape9.fileuploader.FileuploaderJUnit.JUnit
+# RPC service class, partial path of RPC policy file
+com.google.gwt.logging.shared.RemoteLoggingService, 27350931B400814CCAC8AFDA204E31E2.gwt.rpc
+com.redtape9.fileuploader.client.GreetingService, 9A47B1E7E35F003DE45624B3F7562399.gwt.rpc
+com.google.gwt.junit.client.impl.JUnitHost, 96393FD5B90EFD77EACE5B4F721C3D47.gwt.rpc
